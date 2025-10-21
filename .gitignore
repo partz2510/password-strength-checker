@@ -1,0 +1,23 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+
+# Ignore environment files
+.env
+
+# Ignore system files (Windows & macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore test reports or logs
+*.log
+*.pytest_cache/
