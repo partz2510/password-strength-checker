@@ -26,5 +26,7 @@ python password_strength_checker.py "Sup3r$ecret!"
 # or:
 python password_strength_checker.py
 # (then type your password when prompted)
+```
 
-![Demo Output]( https://github.com/partz2510/password-strength-checker/blob/main/screenshots/demo_output.png?raw=true)
+## Demo Output
+![Demo Output](https://github.com/partz2510/password-strength-checker/blob/main/screenshots/demo_output.png?raw=true)
